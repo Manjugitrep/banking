@@ -1,2 +1,2 @@
 # banking
-java project
+java project using sevelets
